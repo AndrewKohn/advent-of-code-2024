@@ -36,6 +36,18 @@
                           title="JavaScript"
                       />
                   </li>
+                <li>
+                      <a
+                          href="https://github.com/AndrewKohn/advent-of-code-2024/blob/main/03/d3.js"
+                          >03</a
+                      >&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;JS&nbsp;&nbsp;
+                      <img
+                          height="18px"
+                          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                          alt="javascript icon"
+                          title="JavaScript"
+                      />
+                  </li>
             </ul>
         </td>
     </tr>
